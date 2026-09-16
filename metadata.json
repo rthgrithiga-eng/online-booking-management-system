@@ -1,0 +1,6 @@
+{
+  "name": "Online Booking Management System",
+  "description": "A responsive online booking management system for viewing services, scheduling appointments, and managing customer and admin bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
